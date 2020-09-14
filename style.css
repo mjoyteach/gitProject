@@ -4,8 +4,13 @@ body {
 
 h1{
     font-size: 40px;
+    color: green;
 }
 
 h2{
     font-size: 35px;
+}
+
+p{
+    color: blue;
 }
